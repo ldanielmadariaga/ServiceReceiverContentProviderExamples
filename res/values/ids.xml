@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="btnStartService" type="id"/>
+    <item name="btnStopService" type="id"/>
+	<item name="btnBroadcastIntent" type="id"/>
+    <item name="txtName" type="id"/>
+    <item name="txtGrade" type="id"/>
+    <item name="btnAdd" type="id"/>
+    <item name="btnRetrieve" type="id"/>
+    
+</resources>

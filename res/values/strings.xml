@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Test Service "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+    <string name="broadcastIntent">Broadcast Intent</string>
+    <string name="customIntent">com.example.testservice.CUSTOM_INTENT</string>
+    <string name="addName">Add Name</string>
+    <string name="retrieveStudents">Retrieve Students</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+
+</resources>
